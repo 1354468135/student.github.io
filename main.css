@@ -1,0 +1,12 @@
+html，body {   /*想要选择2个元素，选择器中间以,隔开*/
+      min-height: 100%;
+      display: flex;
+      flex-direction: column;
+      font-weight: 300; /*控制文字的粗细*/
+      line-height: 3;
+    color: blue；
+}
+h1 {
+    font-weight: 300;
+    color:blue;
+}
